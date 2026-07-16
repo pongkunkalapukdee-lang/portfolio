@@ -8,6 +8,7 @@ nav{
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    align-items: center;
 }
 
 .menu{
@@ -52,4 +53,9 @@ footer{
     color: white;
     text-align: center;
     padding: 10px;
+}
+
+.logo img{
+    width: 100px;
+    height: auto;
 }
